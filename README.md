@@ -12,5 +12,4 @@ HTML
 ## Support and contact details
 For any queries, send me an email at mutileeva@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {2019} *Eva Mutile Mutuku*
+GNU Affero General Public License v3.0 Copyright (c) {2019} *Eva Mutile Mutuku*
